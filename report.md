@@ -7,13 +7,13 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [https://github.com/ModestVale/Java_1_1/issues/1](https://github.com/ModestVale/Java_1_1/issues/1)
+*  [Неверное значение счета после пополнения](https://github.com/ModestVale/Java_1_1/issues/1)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* [Баг-репорт](https://github.com/ModestVale/Java_1_1/issues/1)
-* Отчет о тестировании 
+* [Задание № 1](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
+
 
 В качестве тестовых данных использовались данные [источника](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
 
